@@ -10,19 +10,6 @@
 | **Microsoft Learn** | [https://learn.microsoft.com/en-us/training/paths/secure-access-resources-entra/](https://learn.microsoft.com/en-us/training/paths/secure-access-resources-entra/) |
 | **Modules Covered** | Full path |
 
----
-
-> **Mentees:** Fork this repository, open this file, and fill in your notes below after each session. Commit your changes and open a Pull Request.
-
----
-
-## How to Use This File
-
-1. **Fork** the repository from [Microsoft-Naija-Security-Usergroup/github-onboarding-workshop](https://github.com/Microsoft-Naija-Security-Usergroup/github-onboarding-workshop)
-2. Navigate to `classes/` and open this file
-3. Fill in your **GitHub username** and complete all sections below
-4. Commit with a message like: `docs: add [Your Name] notes for Session 01`
-5. Open a **Pull Request** back to this repo
 
 ---
 
@@ -39,15 +26,15 @@
 *Complete this before attending the session.*
 
 **Did you read the Microsoft Learn module ahead of the class?**
-- [ ] Yes — I read the full module
-- [ ] Yes — I read parts of it
+- [\] Yes — I read the full module
+- [\ ] Yes — I read parts of it
 - [ ] No — I will catch up after
 
 **One thing I want to learn from this session:**
-> 
+> I learnt about entra ID
 
 **A question I am bringing into today's session:**
-> 
+> noting for now
 
 ---
 
@@ -67,7 +54,7 @@
 
 | Term | Definition |
 |------|-----------|
-| | |
+|authentication |A process of entering your username and password to loginto a system |
 | | |
 | | |
 
@@ -80,6 +67,9 @@
 ### Screenshots / Diagrams
 
 *Describe any diagrams or screenshots that were helpful (you cannot upload images here — describe them in words or link to a screenshot in your fork):*
+
+<img width="1254" height="1254" alt="WhatsApp Image 2026-06-27 at 2 05 57 PM" src="https://github.com/user-attachments/assets/5d761d52-09ed-439f-bd16-1602b1c56892" />
+
 > 
 
 ---
